@@ -1,0 +1,1 @@
+#author = 'Fury in my heart AMV'
